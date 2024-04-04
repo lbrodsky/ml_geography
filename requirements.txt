@@ -1,0 +1,9 @@
+numpy==1.23.5
+pandas==2.0.3
+scipy==1.10.1
+matplotlib==3.3.2
+seaborn==0.13.0
+sklearn==1.2.2
+# GeoPython
+rasterio==1.2.10
+geopandas==0.14.2
